@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/db/config/connect.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/db/mysql/DBHelper.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/db/mysql/pool.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/db/redis/redisHelper.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extend/utils.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/logs/log" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes/filter.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system/ControllerManage.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system/ORMManage.js" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
